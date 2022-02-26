@@ -7,22 +7,15 @@
     <!-- Latest compiled and minified CSS -->
     <link
       rel="stylesheet"
-      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
-    />
-
-    <!-- jQuery library -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
-    <title>Document</title>
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"/>
   </head>
   <body>
+    <h3>    Hi there 👋,I am Tawah Peggy Che </h3>
     <div class="container">
       <div class="row">
         <div class="col-sm-6">
           <img
-            src="pegs.jpg"
-            alt="Girl in a jacket"
-            style="width: 300px; border-radius: 30px"
+            src="pegs.jpg" alt="my pic" style="width: 300px; border-radius: 30px"
           />
         </div>
         <div class="col-sm-6">
@@ -43,15 +36,11 @@
     </div>
     <div class="row">
       <div class="col-sm-6">
-        [![Anurag's GitHub
-        stats](https://github-readme-stats.vercel.app/api?username=tawahpeggy&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawahpeggy&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
       </div>
       <div class="col-sm-6">
-        [![Top
-        Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawahpeggy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawahpeggy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
       </div>
     </div>
-    <!-- Latest compiled JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   </body>
 </html>
