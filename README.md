@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on getting my hands pretty dirty with UI Design.
+- 🔭 I’m currently working on getting my hands pretty dirty with UI Design, and taking my Software Engineering Career to a whole new level.
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
