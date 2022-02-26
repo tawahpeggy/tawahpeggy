@@ -7,6 +7,7 @@
 </head>
 <body>
 <h3> Hi there 👋,I am Tawah Peggy Che </h3>
+<img src="pegs.jpg" alt="my pic">
 
 <!--
 **tawahpeggy/tawahpeggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
