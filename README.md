@@ -16,11 +16,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about ...
 
 - 📫 How to reach me:
-    - <a href="https://wa.me/77024039">whatsapp</a>
-    - <a href="https://twitter.com/PeggyTawah">Twitter</a>
-    - <a href="linkedin.com/in/tawah-peggy-68642619a/">linkedIn</a>
-    - <a href="mailto:tawahpeggy98@gmail.com">Email</a>
-    - <a href="https://tawahpeggy.com/about/">portfolio</a>
+ - <a href="https://wa.me/77024039">whatsapp</a> - <a href="https://twitter.com/PeggyTawah">Twitter</a>  - <a href="linkedin.com/in/tawah-peggy-68642619a/">linkedIn</a> - <a href="mailto:tawahpeggy98@gmail.com">Email</a>  - <a href="https://tawahpeggy.com/about/">portfolio</a>
 
 - 😄 Pronouns: She/Her/
 
