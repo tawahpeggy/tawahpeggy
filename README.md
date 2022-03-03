@@ -11,9 +11,9 @@ Here are some ideas to get you started:-->
 
 - 👯 I’m looking to collaborate in open source javascript projects
 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for a javascript open source mentor
 
-- 💬 Ask me about ...
+- 💬 Ask me about anything Software Engineering
 
 - 📫 How to reach me: - <a href="https://wa.me/77024039">whatsapp</a> - <a href="https://twitter.com/PeggyTawah">Twitter</a>  - <a href="linkedin.com/in/tawah-peggy-68642619a/">linkedIn</a> - <a href="mailto:tawahpeggy98@gmail.com">Email</a>  - <a href="https://tawahpeggy.com/about/">portfolio</a>
 
