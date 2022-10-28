@@ -19,7 +19,7 @@ Here are some ideas to get you started:-->
 
 - 😄 Pronouns: She/Her/
 
-- ⚡ Fun fact: Everything is vanity,choose your own vanity wisely
+- ⚡ Fun fact: Everything is vanity,choose yours  wisely
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawahpeggy&show_icons=true&theme=default)](https://github.com/tawahpeggy/github-readme-stats)
 
